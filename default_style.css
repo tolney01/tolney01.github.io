@@ -1,13 +1,11 @@
 /* CSS_File */
 
 body {
-	background-color:#ADD8E6;
+	background-color: #ADD8E6;
 }
 
 img {
 	display: block;
-	padding-left:10%;
-	padding-right:10%;
 	max-width: 100%;
 	height: auto;
 	border-radius:75%;
@@ -15,13 +13,15 @@ img {
 }
 
 h1 {
-	color:white;
+	color:#C0C0C0;
 	text-align:center;
 	font-weight:bold;
+	font-size: 40%;
 }
 
 #links {
-	color:white;
+	font-color:#C0C0C0;
 	text-align:center;
 	font-style:italic;
+	font-size: 20%;
 }
