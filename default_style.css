@@ -1,7 +1,9 @@
 /* CSS_File */
 
 img {
-max-width: 100%;
-height: auto;
-border-radius:75%;
+	display: block;
+	max-width: 100%;
+	height: auto;
+	border-radius:75%;
+	margin: auto;
 }
