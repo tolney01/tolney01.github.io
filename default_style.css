@@ -15,6 +15,7 @@ img {
 #thumbnail {
 	display:inline;
 	height:20pt;
+	border-radius:100%;
 }
 
 p {
