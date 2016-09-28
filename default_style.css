@@ -1,9 +1,24 @@
 /* CSS_File */
 
+body {
+	background-color:blue;
+}
+
 img {
 	display: block;
 	max-width: 100%;
 	height: auto;
 	border-radius:75%;
 	margin: auto;
+}
+
+h1 {
+	color:white;
+	text-align:center;
+	font-weight:bold;
+}
+
+#links {
+	text-align:center;
+	font-style:italic;
 }
