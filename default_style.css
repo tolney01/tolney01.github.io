@@ -43,3 +43,7 @@ h2 {
 	font-style:italic;
 	font-size:10pt;
 }
+
+#long_para {
+	text-align:justify;
+}
