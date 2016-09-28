@@ -13,15 +13,13 @@ img {
 }
 
 h1 {
-	color:#C0C0C0;
+	color:grey;
 	text-align:center;
 	font-weight:bold;
-	font-size: 200%;
 }
 
 #links {
-	font-color:#C0C0C0;
+	font-color:black;
 	text-align:center;
 	font-style:italic;
-	font-size: 150%;
 }
